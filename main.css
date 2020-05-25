@@ -4,7 +4,7 @@
   }
   
 body {
-    font: 14px 'Segoe UI', Tahoma, Verdana, sans-serif;;
+    font: 14px 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 
 #donotcopy {
@@ -15,7 +15,7 @@ body {
 }
 
 #nameandfont {
-    font: 128px 'aihet_script_personal_use_oRg';
+    font: 128px 'zz';
     color: #910e0f;
     text-align: center;
 }
@@ -24,4 +24,12 @@ body {
     font-size: 24px;
     text-align: center;
     font-weight: bold;
+}
+
+@font-face {
+    font-family: 'zz';
+    src: url('./fonts/aihet_script_personal_use_only.woff2') format('woff2'),
+         url('./fonts/aihet_script_personal_use_only.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
