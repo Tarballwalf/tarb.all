@@ -3,9 +3,9 @@
     color: #ffffff;
   }
   
-  body {
-      font: 14px 'Segoe UI', Tahoma, Verdana, sans-serif;;
-  }
+body {
+    font: 14px 'Segoe UI', Tahoma, Verdana, sans-serif;;
+}
 
 #donotcopy {
     font-size: 12px;
@@ -14,7 +14,7 @@
     left: 8px;
 }
 
-#name {
+#nameandfont {
     font: 128px 'aihet_script_personal_use_oRg';
     color: #910e0f;
     text-align: center;
