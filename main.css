@@ -15,7 +15,7 @@ body {
 }
 
 #nameandfont {
-    font: 128px 'zz';
+    font: 128px 'aihet';
     color: #910e0f;
     text-align: center;
 }
@@ -27,7 +27,7 @@ body {
 }
 
 @font-face {
-    font-family: 'zz';
+    font-family: 'aihet';
     src: url('./fonts/aihet_script_personal_use_only.woff2') format('woff2'),
          url('./fonts/aihet_script_personal_use_only.woff') format('woff');
     font-weight: normal;
