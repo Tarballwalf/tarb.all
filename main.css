@@ -15,7 +15,7 @@
 }
 
 #nameandfont {
-    font: 128px 'Aihet Script Personal Use Only';
+    font: 128px 'Fent';
     color: #910e0f;
     text-align: center;
 }
@@ -27,6 +27,6 @@
 }
 
 @font-face {
-    font-family: 'Aihet Script Personal Use Only';
+    font-family: 'Fent';
     src: url('./fonts/"Aihet Script Personal Use Only.ttf"');
 }
