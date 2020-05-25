@@ -15,7 +15,7 @@ var messages = [
     '(:',
     'The big oof',
     'Tarball is dead.',
-    'Qute of the day. "if it ain\'t broke, don\'t try to fix it"',
+    'Quote of the day. "if it ain\'t broke, don\'t try to fix it"',
     'The things you learn in maturity aren\'t simple things such as acquiring information and skills. You learn engage in self-destructive behavior.',
     'Reconsider your brain',
     'Hardcore Gay Yiff',
