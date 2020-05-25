@@ -1,5 +1,5 @@
 @font-face {
     font-family: 'font';
-    src: url('font-webfont.woff2') format('woff2'),
-         url('font-webfont.woff') format('woff');
+    src: url('https://tarballwalf.github.io/fonts/font-webfont.woff2') format('woff2'),
+         url('https://tarballwalf.github.io/fonts/font-webfont.woff') format('woff');
 }
