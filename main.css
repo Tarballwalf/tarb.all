@@ -26,6 +26,10 @@ body {
     font-weight: bold;
 }
 
+line {
+    line-height: 50%;
+}
+
 @font-face {
     font-family: 'aihet';
     src: url('./fonts/aihet_script_personal_use_only.woff2') format('woff2'),
