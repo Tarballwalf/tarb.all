@@ -7,8 +7,6 @@
 }
 
 .border {
-    margin-left:120px auto;
-    margin-right:120px auto;
     width: 690px;
     overflow: hidden;
 }
@@ -18,5 +16,5 @@
 only screen and (max-width: 500px),
 /* Medium Screens */
 only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
-	body2 { display: padding; }
+	.border { display: none; }
 }
