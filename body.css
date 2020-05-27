@@ -2,12 +2,13 @@
     font-size: 12px;
     text-align: left;
     margin-left:120px auto;
+    margin-right:120px auto;
     max-width: 682px;
 }
 
 .border {
-    border: dashed 1px white;
-    max-width: 682px;
+    width: 690px;
+    overflow: hidden;
 }
 
 @media 
