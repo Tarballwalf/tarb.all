@@ -5,8 +5,9 @@
     max-width: 682px;
 }
 
-.block2 {
-    margin-left: 0px auto;
+.border {
+    border: dashed 1px white;
+    max-width: 682px;
 }
 
 @media 
