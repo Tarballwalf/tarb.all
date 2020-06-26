@@ -36,10 +36,19 @@ line {
 
 #menu {
     font-size: 14px;
+    overflow: hidden;
+    text-decoration: none;
 }
 
-#menu:hover {
-    text-decoration: underline;
+#menu a {
+    float: left;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+  }
+
+a:hover {
+    color: gray;
 }
 
 @font-face {
