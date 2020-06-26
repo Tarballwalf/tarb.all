@@ -1,3 +1,1 @@
-permalink: ./404.html
-permalink: ./main.css
-permalink: ./messages.js
+permalink: "/404.html","/messages.js","/main.css"
