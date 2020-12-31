@@ -9,7 +9,7 @@
 .border {
     width: 682px auto;
     margin: auto;
-    border-style: solid;
+    border-style: dotted 2px;
     border-collapse: collapse;
     border-color: #cacaca;
     overflow: hidden;
