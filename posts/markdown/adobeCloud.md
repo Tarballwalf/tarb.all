@@ -1,4 +1,4 @@
-## Adobe Cloud pre-activated
+## Adobe Cloud Pre-Activated
 
 
 These are the links for getting the Adobe Cloud pre-activated.
