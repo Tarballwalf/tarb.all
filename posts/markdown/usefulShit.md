@@ -67,6 +67,8 @@
 * [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) - ok we get it you're not payed enough by YouTube but we truly don't care
 * [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - "This website will only work on-" nope. fuck off.
 * [Web Scrobbler](https://addons.mozilla.org/en-US/firefox/addon/web-scrobbler/) - Scrobbing for your browser
+* [Universal Bypass](https://addons.mozilla.org/en-US/firefox/addon/universal-bypass/) - Give back my 5 seconds of my life
+* [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) - They always want to track you no matter what
 
 ### Android
 * [KDE Connect](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp&hl=en_US) - How the fuck do you want to sync your PC?
