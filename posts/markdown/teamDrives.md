@@ -3,16 +3,17 @@
 These websites allow you to get team drives/shared drives from different school domains
 
 * [Multiple schools](https://td.fastio.me/)
+* [Hackgence](https://td.hackgence.com/)
 
 I suggest choosing drives from EDU domains as I've had times where the drive would get deleted from random domains.
 
 Another suggestion would be to get more then one team drive from different domains and keep backups.
 
-* [CCSF](https://teamdrive.mfoxx.workers.dev)
 * [University of Sheffield](https://gdrive.zppcw.cn/)
 * [Washington University](https://gdrive.oso.ac.cn/)
 * [Taiwan Primary School](https://gd.404edu.workers.dev/)
-* [SWCCD](https://teamdrive.xcpx.workers.dev/)
+* [SWCCD](https://teamdrive.xcpx.workers.dev/) (Unsafe/Not Working)
+* [CCSF](https://teamdrive.mfoxx.workers.dev) (Unsafe/Not Working)
 
 First colum is the name of the team drive. The second colum is Gmail address of the team drive.
 
