@@ -1,6 +1,6 @@
 ## Skyrim Fps And Physics Fix
 
-How fix the 60fps cap and physics bug
+Bethesda developers recommend you don't try to boost FPS in Skyrim: Special Edition above 60 FPS, but there's a way you can do it without completely destroying the in-game physics.
 
 **WARNING:** While this fix is confirmed to work, it may cause issues with scripting and save files long term. As always, when making tweaks, always back up your files!
 
@@ -8,7 +8,7 @@ Find the `SkyrimPrefs.ini` file. By default, this is found in the `Documents` fo
 
     Documents/My Games/Skyrim Special Edition/SkyrimPrefs.ini
 
-You'll need to disable the V-Sync setting. This hidden setting limits the maximum framerate to the your monitor's refresh rate, and can't be changed in-game. (If you have a high refresh monitor, leave this on as the fps can skyrocket to well above 1000).
+You'll need to disable the V-Sync setting. This hidden setting limits the maximum framerate to the your monitor's refresh rate, and can't be changed in-game. (If you have a high refresh monitor, leave this on as the FPS can skyrocket to well above 1000).
 
     Open SkyrimPrefs.ini,
     Change the setting iVSyncPresentInterval=1 from 0,
