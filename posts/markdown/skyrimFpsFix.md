@@ -1,6 +1,6 @@
 ## Skyrim Fps And Physics Fix
 
-Bethesda developers recommend you don't try to boost FPS in Skyrim: Special Edition above 60 FPS, but there's a way you can do it without completely destroying the in-game physics.
+Bethesda developers recommend you don't try to boost FPS in `Skyrim: Special Edition` above 60 FPS, but there's a way you can do it without completely destroying the in-game physics.
 
 **WARNING:** While this fix is confirmed to work, it may cause issues with scripting and save files long term. As always, when making tweaks, always back up your files!
 
