@@ -689,8 +689,8 @@
 .markdown-body code {
   padding: .2em .4em;
   margin: 0;
-  font-size: 85%;
-  background-color: rgba(39, 39, 39, 0.418);
+  font-size: 95%;
+  background-color: rgba(51, 51, 51, 0.418);
   border-radius: 3px;
 }
 
@@ -721,7 +721,7 @@
 .markdown-body pre {
   padding: 16px;
   overflow: auto;
-  font-size: 85%;
+  font-size: 95%;
   line-height: 1.45;
   background-color: #f6f8fa15;
   border-radius: 3px;
