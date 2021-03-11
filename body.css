@@ -58,6 +58,11 @@ only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
 }
 
 /* Tree */
+
+li {
+  margin-top: 6px;
+}
+
 ul, #tree {
   list-style-type: none;
 }
@@ -71,10 +76,15 @@ ul, #tree {
   user-select: none;
 }
 
+.caret:hover {
+  color: #808080;
+}
+
 .caret::before {
   content: "\002B";
   display: inline-block;
   margin-right: 2px;
+  color: #ffffff;
 }
 
 .caret-down::before {
