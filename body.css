@@ -98,3 +98,21 @@ ul, #tree {
 .active {
   display: block;
 }
+
+/* Search */
+
+input {
+  padding: 4px 10px;
+  border: 0px;
+  border-style: dashed 1px;
+}
+.search {
+  width: 200px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.submit {
+  width: 70px;
+  color: #ffffff;
+  cursor: pointer;
+}
