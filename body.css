@@ -59,33 +59,32 @@ only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
 
 /* Tree */
 ul, #tree {
-    list-style-type: none;
-  }
-  
-  #tree {
-    padding: 0;
-  }
-  
-  .caret {
-    cursor: pointer;
-    user-select: none;
-  }
-  
-  .caret::before {
-    content: "\002B";
-    color: rgb(255, 255, 255);
-    display: inline-block;
-    margin-right: 6px;
-  }
-  
-  .caret-down::before {
-      content: "\2212";  
-  }
-  
-  .nested {
-    display: none;
-  }
-  
-  .active {
-    display: block;
-  }
+  list-style-type: none;
+}
+
+#tree {
+  padding: 0;
+}
+
+.caret {
+  cursor: pointer;
+  user-select: none;
+}
+
+.caret::before {
+  content: "\002B";
+  display: inline-block;
+  margin-right: 2px;
+}
+
+.caret-down::before {
+    content: "\2212";  
+}
+
+.nested {
+  display: none;
+}
+
+.active {
+  display: block;
+}
