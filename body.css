@@ -102,7 +102,7 @@ ul, #tree {
 /* Search */
 
 input {
-  padding: 4px 10px;
+  padding: 4px;
   border: 0px;
 }
 .search {
@@ -113,6 +113,7 @@ input {
 
 form {
   width: 150px;
-  margin: auto;
-  margin-top: 0px;
+  margin-right: auto;
+  margin-top: 4px;
+  margin-bottom: 4px;
 }

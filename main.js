@@ -7,3 +7,19 @@ for (i = 0; i < toggler.length; i++) {
     this.classList.toggle("caret-down");
   });
 }
+
+function search() {
+  var input, filter, ul, li, a, i, p;
+  input = document.getElementById("getSearch");
+  filter = input.value.toUpperCase();
+  ul = document.getElementById("getIndex");
+  li = ul.getElementsByTagName("p");
+  for (i = 0; i < li.length; i++) {
+    a = li[i].getElementsByTagName("a")[0];
+    if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+}
