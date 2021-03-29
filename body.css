@@ -16,7 +16,7 @@ line {
     text-align: left;
     margin-left:120px auto;
     margin-right:120px auto;
-    max-width: 682px;
+    max-width: 680px;
 }
 
 .sblock {
@@ -28,7 +28,7 @@ line {
 }
 
 .border {
-    width: 682px auto;
+    width: 680px auto;
     margin: auto;
     border-top: dashed 0px;
     border-bottom: dashed 1px;
@@ -54,7 +54,7 @@ a:hover {
 only screen and (max-width: 500px),
 /* Medium Screens */
 only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
-	.notnow { display: none; }
+	footer { display: none; }
 }
 
 /* Tree */
