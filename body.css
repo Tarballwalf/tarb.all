@@ -32,14 +32,14 @@ line {
     margin: auto;
     border-top: dashed 0px;
     border-bottom: dashed 1px;
-    border-color: #cacaca;
+    border-color: #ffffff;
     overflow: hidden;
 }
 
 
 .bordervr {
-  border-left: 1px dashed #cacaca;
-  border-right: 1px dashed #cacaca;
+  border-left: 1px dashed #ffffff;
+  border-right: 1px dashed #ffffff;
   height: auto;
 }
 
