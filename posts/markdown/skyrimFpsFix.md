@@ -45,4 +45,4 @@ These quests involve a larger number of NPC actors and objects, and something ab
 
 I've also noticed taking screenshots with the `print screen` key will sometimes break the physics engine.
 
-Sources: [escapistmagazine](https://telegra.ph/https://v1.escapistmagazine.com/articles/view/video-games/walkthroughs/17795-Skyrim-Special-Edition-How-To-Fix-The-60-FPS-Physics-Bug)
+Sources: [escapistmagazine](https://v1.escapistmagazine.com/articles/view/video-games/walkthroughs/17795-Skyrim-Special-Edition-How-To-Fix-The-60-FPS-Physics-Bug)
