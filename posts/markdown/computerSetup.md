@@ -33,7 +33,7 @@ Storage Configuration:
 
 
 ## Laptop:
-Lenovo-Thinkpad-T560
+Lenovo Thinkpad T560
 * CPU: i5-6200U
 * GPU: HD Graphics 520
 * RAM: 2x 8GB DDR3L 1600MHz (16GB total)
