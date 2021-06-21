@@ -1,4 +1,4 @@
-## Install Mesa Drivers
+## Mesa Drivers Installation
 
 You can check if your system uses Mesa and the installed versions using this command:
 
