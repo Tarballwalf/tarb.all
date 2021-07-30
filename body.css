@@ -1,6 +1,7 @@
 * {
     background: #000000;
     color: #ffffff;
+    box-sizing: border-box;
   }
   
 body {
@@ -47,7 +48,6 @@ line {
 a:hover {
     color: #808080;
 }
-
 
 @media 
 /* Small Screens */
@@ -116,4 +116,45 @@ form {
   width: 150px;
   margin-right: auto;
   margin-bottom: 9px;
+}
+
+/* Gallery */
+
+.gallery:hover {
+  border: 1px solid #808080;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.desc {
+  padding: 5px;
+  text-align: left;
+}
+
+.responsive {
+  padding: 0 5px;
+  float: left;
+  width: 25%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 50%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
 }
