@@ -132,6 +132,11 @@ form {
   margin-bottom:5px;
 }
 
+.desc {
+  padding: 5px;
+  text-align: center;
+}
+
 @media (max-width: 1200px) {
   #gallery {
    column-count:         4;
