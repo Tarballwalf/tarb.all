@@ -1,7 +1,7 @@
 ## Main PC Specs:
 * CPU: i5-8500 @3.00Ghz
 * GPU: GTX 1050 Ti MSI 4GB GDDR5
-* RAM: 2x 8GB DDR4 HyperX Fury 2400MHz (16GB total)
+* RAM: 2x 8GB DDR4 HyperX Fury 2400MHz (16GB total, 2666MHz XMP)
 * MB: Gigabyte B360M D3H-CF
 * SSD: 256GB Samsung MZ7TY256HDHP
 * HDD(1): 1TB Segate Barracuda 7200rpm
